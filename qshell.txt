@@ -1,0 +1,3 @@
+ROADMAP
+
+To write an operating system should start from a " terminal interface "
